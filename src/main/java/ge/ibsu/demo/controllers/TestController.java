@@ -1,4 +1,4 @@
-package controllers;
+package ge.ibsu.demo.controllers;
 
 import ge.ibsu.demo.dto.TestPerson;
 import org.springframework.web.bind.annotation.GetMapping;
